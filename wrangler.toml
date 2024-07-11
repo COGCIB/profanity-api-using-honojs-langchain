@@ -1,0 +1,7 @@
+name="profanity-api"
+
+compatibility="2024-06-03"
+
+[vars]
+VECTOR_URL="https://intimate-hedgehog-92813-eu1-vector.upstash.io"
+VECTOR_SECRET= "ABsFMGludGltYXRlLWhlZGdlaG9nLTkyODEzLWV1MWFkbWluTVdVME5XUm1ZekF0WWpNM05DMDBaVEprTFdJMFpEWXRNelpqWmpkak5tVXlPVGd5"
